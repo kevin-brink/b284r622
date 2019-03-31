@@ -10,3 +10,5 @@ public:
     void reset();
     int getTotal();
 };
+
+#endif
