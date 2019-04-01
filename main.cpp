@@ -2,8 +2,8 @@
 #include "odometer.hpp"
 
 int main() {
-    //The beginning
-    
+    //
+
     Odometer car1;
     std::cout << "Car 1 milage: " << car1.getTotal() << endl;
     car1.add(500);
@@ -17,4 +17,4 @@ int main() {
     return 0;
 }
 
-//The end
+//
